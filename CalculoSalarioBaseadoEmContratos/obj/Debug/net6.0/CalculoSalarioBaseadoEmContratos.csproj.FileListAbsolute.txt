@@ -1,0 +1,15 @@
+C:\Users\guilh\OneDrive\Documents\CURSOS\c#\udemy\Intermediary\PROJETOS\CalculoSalarioBaseadoEmContratos\bin\Debug\net6.0\CalculoSalarioBaseadoEmContratos.exe
+C:\Users\guilh\OneDrive\Documents\CURSOS\c#\udemy\Intermediary\PROJETOS\CalculoSalarioBaseadoEmContratos\bin\Debug\net6.0\CalculoSalarioBaseadoEmContratos.deps.json
+C:\Users\guilh\OneDrive\Documents\CURSOS\c#\udemy\Intermediary\PROJETOS\CalculoSalarioBaseadoEmContratos\bin\Debug\net6.0\CalculoSalarioBaseadoEmContratos.runtimeconfig.json
+C:\Users\guilh\OneDrive\Documents\CURSOS\c#\udemy\Intermediary\PROJETOS\CalculoSalarioBaseadoEmContratos\bin\Debug\net6.0\CalculoSalarioBaseadoEmContratos.dll
+C:\Users\guilh\OneDrive\Documents\CURSOS\c#\udemy\Intermediary\PROJETOS\CalculoSalarioBaseadoEmContratos\bin\Debug\net6.0\CalculoSalarioBaseadoEmContratos.pdb
+C:\Users\guilh\OneDrive\Documents\CURSOS\c#\udemy\Intermediary\PROJETOS\CalculoSalarioBaseadoEmContratos\obj\Debug\net6.0\CalculoSalarioBaseadoEmContratos.csproj.AssemblyReference.cache
+C:\Users\guilh\OneDrive\Documents\CURSOS\c#\udemy\Intermediary\PROJETOS\CalculoSalarioBaseadoEmContratos\obj\Debug\net6.0\CalculoSalarioBaseadoEmContratos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guilh\OneDrive\Documents\CURSOS\c#\udemy\Intermediary\PROJETOS\CalculoSalarioBaseadoEmContratos\obj\Debug\net6.0\CalculoSalarioBaseadoEmContratos.AssemblyInfoInputs.cache
+C:\Users\guilh\OneDrive\Documents\CURSOS\c#\udemy\Intermediary\PROJETOS\CalculoSalarioBaseadoEmContratos\obj\Debug\net6.0\CalculoSalarioBaseadoEmContratos.AssemblyInfo.cs
+C:\Users\guilh\OneDrive\Documents\CURSOS\c#\udemy\Intermediary\PROJETOS\CalculoSalarioBaseadoEmContratos\obj\Debug\net6.0\CalculoSalarioBaseadoEmContratos.csproj.CoreCompileInputs.cache
+C:\Users\guilh\OneDrive\Documents\CURSOS\c#\udemy\Intermediary\PROJETOS\CalculoSalarioBaseadoEmContratos\obj\Debug\net6.0\CalculoSalarioBaseadoEmContratos.dll
+C:\Users\guilh\OneDrive\Documents\CURSOS\c#\udemy\Intermediary\PROJETOS\CalculoSalarioBaseadoEmContratos\obj\Debug\net6.0\refint\CalculoSalarioBaseadoEmContratos.dll
+C:\Users\guilh\OneDrive\Documents\CURSOS\c#\udemy\Intermediary\PROJETOS\CalculoSalarioBaseadoEmContratos\obj\Debug\net6.0\CalculoSalarioBaseadoEmContratos.pdb
+C:\Users\guilh\OneDrive\Documents\CURSOS\c#\udemy\Intermediary\PROJETOS\CalculoSalarioBaseadoEmContratos\obj\Debug\net6.0\CalculoSalarioBaseadoEmContratos.genruntimeconfig.cache
+C:\Users\guilh\OneDrive\Documents\CURSOS\c#\udemy\Intermediary\PROJETOS\CalculoSalarioBaseadoEmContratos\obj\Debug\net6.0\ref\CalculoSalarioBaseadoEmContratos.dll
