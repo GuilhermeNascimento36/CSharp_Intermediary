@@ -1,0 +1,8 @@
+C:\Users\guilh\OneDrive\Documents\CURSOS\c#\udemy\Intermediary\PROJETOS\SistemaPedidos\bin\Debug\SistemaPedidos.exe.config
+C:\Users\guilh\OneDrive\Documents\CURSOS\c#\udemy\Intermediary\PROJETOS\SistemaPedidos\bin\Debug\SistemaPedidos.exe
+C:\Users\guilh\OneDrive\Documents\CURSOS\c#\udemy\Intermediary\PROJETOS\SistemaPedidos\bin\Debug\SistemaPedidos.pdb
+C:\Users\guilh\OneDrive\Documents\CURSOS\c#\udemy\Intermediary\PROJETOS\SistemaPedidos\obj\Debug\SistemaPedidos.csproj.AssemblyReference.cache
+C:\Users\guilh\OneDrive\Documents\CURSOS\c#\udemy\Intermediary\PROJETOS\SistemaPedidos\obj\Debug\SistemaPedidos.csproj.SuggestedBindingRedirects.cache
+C:\Users\guilh\OneDrive\Documents\CURSOS\c#\udemy\Intermediary\PROJETOS\SistemaPedidos\obj\Debug\SistemaPedidos.csproj.CoreCompileInputs.cache
+C:\Users\guilh\OneDrive\Documents\CURSOS\c#\udemy\Intermediary\PROJETOS\SistemaPedidos\obj\Debug\SistemaPedidos.exe
+C:\Users\guilh\OneDrive\Documents\CURSOS\c#\udemy\Intermediary\PROJETOS\SistemaPedidos\obj\Debug\SistemaPedidos.pdb
