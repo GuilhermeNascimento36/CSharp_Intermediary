@@ -1,0 +1,8 @@
+C:\Users\guilh\OneDrive\Documents\CURSOS\c#\udemy\Intermediary\PROJETOS\PrecoProdutosBaseadoEmEstado_Console\obj\Debug\PrecoProdutosBaseadoEmEstado_Console.csproj.AssemblyReference.cache
+C:\Users\guilh\OneDrive\Documents\CURSOS\c#\udemy\Intermediary\PROJETOS\PrecoProdutosBaseadoEmEstado_Console\obj\Debug\PrecoProdutosBaseadoEmEstado_Console.csproj.SuggestedBindingRedirects.cache
+C:\Users\guilh\OneDrive\Documents\CURSOS\c#\udemy\Intermediary\PROJETOS\PrecoProdutosBaseadoEmEstado_Console\obj\Debug\PrecoProdutosBaseadoEmEstado_Console.csproj.CoreCompileInputs.cache
+C:\Users\guilh\OneDrive\Documents\CURSOS\c#\udemy\Intermediary\PROJETOS\PrecoProdutosBaseadoEmEstado_Console\bin\Debug\PrecoProdutosBaseadoEmEstado_Console.exe.config
+C:\Users\guilh\OneDrive\Documents\CURSOS\c#\udemy\Intermediary\PROJETOS\PrecoProdutosBaseadoEmEstado_Console\bin\Debug\PrecoProdutosBaseadoEmEstado_Console.exe
+C:\Users\guilh\OneDrive\Documents\CURSOS\c#\udemy\Intermediary\PROJETOS\PrecoProdutosBaseadoEmEstado_Console\bin\Debug\PrecoProdutosBaseadoEmEstado_Console.pdb
+C:\Users\guilh\OneDrive\Documents\CURSOS\c#\udemy\Intermediary\PROJETOS\PrecoProdutosBaseadoEmEstado_Console\obj\Debug\PrecoProdutosBaseadoEmEstado_Console.exe
+C:\Users\guilh\OneDrive\Documents\CURSOS\c#\udemy\Intermediary\PROJETOS\PrecoProdutosBaseadoEmEstado_Console\obj\Debug\PrecoProdutosBaseadoEmEstado_Console.pdb
