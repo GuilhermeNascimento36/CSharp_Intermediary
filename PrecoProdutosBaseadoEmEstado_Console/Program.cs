@@ -80,8 +80,6 @@ namespace PrecoProdutosBaseadoEmEstado_Console
             {
                 Console.WriteLine(prod.PriceTag());
             }
-
-
         }
     }
 }

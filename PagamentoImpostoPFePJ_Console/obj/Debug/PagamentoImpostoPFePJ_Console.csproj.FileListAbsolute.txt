@@ -1,0 +1,8 @@
+C:\Users\guilh\OneDrive\Documents\CURSOS\c#\udemy\Intermediary\PROJETOS\PagamentoImpostoPFePJ_Console\bin\Debug\PagamentoImpostoPFePJ_Console.exe.config
+C:\Users\guilh\OneDrive\Documents\CURSOS\c#\udemy\Intermediary\PROJETOS\PagamentoImpostoPFePJ_Console\bin\Debug\PagamentoImpostoPFePJ_Console.exe
+C:\Users\guilh\OneDrive\Documents\CURSOS\c#\udemy\Intermediary\PROJETOS\PagamentoImpostoPFePJ_Console\bin\Debug\PagamentoImpostoPFePJ_Console.pdb
+C:\Users\guilh\OneDrive\Documents\CURSOS\c#\udemy\Intermediary\PROJETOS\PagamentoImpostoPFePJ_Console\obj\Debug\PagamentoImpostoPFePJ_Console.csproj.AssemblyReference.cache
+C:\Users\guilh\OneDrive\Documents\CURSOS\c#\udemy\Intermediary\PROJETOS\PagamentoImpostoPFePJ_Console\obj\Debug\PagamentoImpostoPFePJ_Console.csproj.SuggestedBindingRedirects.cache
+C:\Users\guilh\OneDrive\Documents\CURSOS\c#\udemy\Intermediary\PROJETOS\PagamentoImpostoPFePJ_Console\obj\Debug\PagamentoImpostoPFePJ_Console.csproj.CoreCompileInputs.cache
+C:\Users\guilh\OneDrive\Documents\CURSOS\c#\udemy\Intermediary\PROJETOS\PagamentoImpostoPFePJ_Console\obj\Debug\PagamentoImpostoPFePJ_Console.exe
+C:\Users\guilh\OneDrive\Documents\CURSOS\c#\udemy\Intermediary\PROJETOS\PagamentoImpostoPFePJ_Console\obj\Debug\PagamentoImpostoPFePJ_Console.pdb
