@@ -1,0 +1,8 @@
+C:\Users\guilh\OneDrive\Documents\CURSOS\c#\udemy\Intermediary\PROJETOS\SaqueContaBancaria_Console\bin\Debug\SaqueContaBancaria_Console.exe.config
+C:\Users\guilh\OneDrive\Documents\CURSOS\c#\udemy\Intermediary\PROJETOS\SaqueContaBancaria_Console\bin\Debug\SaqueContaBancaria_Console.exe
+C:\Users\guilh\OneDrive\Documents\CURSOS\c#\udemy\Intermediary\PROJETOS\SaqueContaBancaria_Console\bin\Debug\SaqueContaBancaria_Console.pdb
+C:\Users\guilh\OneDrive\Documents\CURSOS\c#\udemy\Intermediary\PROJETOS\SaqueContaBancaria_Console\obj\Debug\SaqueContaBancaria_Console.csproj.AssemblyReference.cache
+C:\Users\guilh\OneDrive\Documents\CURSOS\c#\udemy\Intermediary\PROJETOS\SaqueContaBancaria_Console\obj\Debug\SaqueContaBancaria_Console.csproj.SuggestedBindingRedirects.cache
+C:\Users\guilh\OneDrive\Documents\CURSOS\c#\udemy\Intermediary\PROJETOS\SaqueContaBancaria_Console\obj\Debug\SaqueContaBancaria_Console.csproj.CoreCompileInputs.cache
+C:\Users\guilh\OneDrive\Documents\CURSOS\c#\udemy\Intermediary\PROJETOS\SaqueContaBancaria_Console\obj\Debug\SaqueContaBancaria_Console.exe
+C:\Users\guilh\OneDrive\Documents\CURSOS\c#\udemy\Intermediary\PROJETOS\SaqueContaBancaria_Console\obj\Debug\SaqueContaBancaria_Console.pdb
