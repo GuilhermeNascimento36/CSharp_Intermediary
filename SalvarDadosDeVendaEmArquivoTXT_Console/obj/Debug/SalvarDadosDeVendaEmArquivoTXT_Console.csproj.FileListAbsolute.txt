@@ -1,0 +1,8 @@
+C:\Users\guilh\OneDrive\Documents\CURSOS\c#\udemy\Intermediary\PROJETOS\SalvarDadosDeVendaEmArquivoTXT_Console\bin\Debug\SalvarDadosDeVendaEmArquivoTXT_Console.exe.config
+C:\Users\guilh\OneDrive\Documents\CURSOS\c#\udemy\Intermediary\PROJETOS\SalvarDadosDeVendaEmArquivoTXT_Console\bin\Debug\SalvarDadosDeVendaEmArquivoTXT_Console.exe
+C:\Users\guilh\OneDrive\Documents\CURSOS\c#\udemy\Intermediary\PROJETOS\SalvarDadosDeVendaEmArquivoTXT_Console\bin\Debug\SalvarDadosDeVendaEmArquivoTXT_Console.pdb
+C:\Users\guilh\OneDrive\Documents\CURSOS\c#\udemy\Intermediary\PROJETOS\SalvarDadosDeVendaEmArquivoTXT_Console\obj\Debug\SalvarDadosDeVendaEmArquivoTXT_Console.csproj.AssemblyReference.cache
+C:\Users\guilh\OneDrive\Documents\CURSOS\c#\udemy\Intermediary\PROJETOS\SalvarDadosDeVendaEmArquivoTXT_Console\obj\Debug\SalvarDadosDeVendaEmArquivoTXT_Console.csproj.SuggestedBindingRedirects.cache
+C:\Users\guilh\OneDrive\Documents\CURSOS\c#\udemy\Intermediary\PROJETOS\SalvarDadosDeVendaEmArquivoTXT_Console\obj\Debug\SalvarDadosDeVendaEmArquivoTXT_Console.csproj.CoreCompileInputs.cache
+C:\Users\guilh\OneDrive\Documents\CURSOS\c#\udemy\Intermediary\PROJETOS\SalvarDadosDeVendaEmArquivoTXT_Console\obj\Debug\SalvarDadosDeVendaEmArquivoTXT_Console.exe
+C:\Users\guilh\OneDrive\Documents\CURSOS\c#\udemy\Intermediary\PROJETOS\SalvarDadosDeVendaEmArquivoTXT_Console\obj\Debug\SalvarDadosDeVendaEmArquivoTXT_Console.pdb
